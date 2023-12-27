@@ -57,3 +57,29 @@ thunderbird 102.8.0-1
 valgrind 3.19.0-7
 vscodium-git 1.73.1.22314.r4.g078ce94-1
 zsh 5.9-3
+
+Applications:
+nvim
+firefox
+openssh
+
+paru
+zsh
+mdo
+vmd
+
+Drivers:
+networkmanager
+
+xorg-xserver
+xorg-xrdb
+xorg-xrandr
+qt5
+
+Dwm related:
+feh
+picom
+sddm
+ttf-firacode-nerd
+ttf-font-awesome
+ttf-jetbrains-mono-nerd
